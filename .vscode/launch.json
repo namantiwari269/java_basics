@@ -1,0 +1,344 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "numberspiraltwodi",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.numberspiraltwodi",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "waveformprinting",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.waveformprinting",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "rotate90degree",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.rotate90degree",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "transpose",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.transpose",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "addmatrix",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.addmatrix",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "sumtwodi",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.sumtwodi",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "largestintwodi",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.largestintwodi",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "rollandmarks",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.rollandmarks",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "basictwodimarray",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray.basictwodimarray",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "nextgreatestelement2",
+            "request": "launch",
+            "mainClass": "Array.nextgreatestelement2",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "nextgreatestelement",
+            "request": "launch",
+            "mainClass": "Array.nextgreatestelement",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "Array.mergesort",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "sortcolour",
+            "request": "launch",
+            "mainClass": "Array.sortcolour",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "sortzeroone2",
+            "request": "launch",
+            "mainClass": "Array.sortzeroone2",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "sort01",
+            "request": "launch",
+            "mainClass": "Array.sort01",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "rotatearray",
+            "request": "launch",
+            "mainClass": "Array.rotatearray",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "twopointerreverse",
+            "request": "launch",
+            "mainClass": "Array.twopointerreverse",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "reversearray",
+            "request": "launch",
+            "mainClass": "Array.reversearray",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "Array.twosum",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "arraylistadd",
+            "request": "launch",
+            "mainClass": "Arraylist.arraylistadd",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "basicsofarraylist",
+            "request": "launch",
+            "mainClass": "Arraylist.basicsofarraylist",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "copyofarray",
+            "request": "launch",
+            "mainClass": "Arraylist.copyofarray",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "builtinmethod",
+            "request": "launch",
+            "mainClass": "Arraylist.builtinmethod",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "methodarray",
+            "request": "launch",
+            "mainClass": "Array.methodarray",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "secondgreatest",
+            "request": "launch",
+            "mainClass": "Array.secondgreatest",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "greater",
+            "request": "launch",
+            "mainClass": "Array.greater",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "Array.linearsearch",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "marks",
+            "request": "launch",
+            "mainClass": "Array.marks",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "basicsyntax",
+            "request": "launch",
+            "mainClass": "Array.basicsyntax",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "Numberspiral2",
+            "request": "launch",
+            "mainClass": "pattern.Numberspiral2",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "Numberspiral",
+            "request": "launch",
+            "mainClass": "pattern.Numberspiral",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "qcompattern7",
+            "request": "launch",
+            "mainClass": "pattern.qcompattern7",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "qcompattern6",
+            "request": "launch",
+            "mainClass": "pattern.qcompattern6",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "qcompattern5",
+            "request": "launch",
+            "mainClass": "pattern.qcompattern5",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "qcompattern4",
+            "request": "launch",
+            "mainClass": "pattern.qcompattern4",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "qcompattern3",
+            "request": "launch",
+            "mainClass": "pattern.qcompattern3",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "qcompattern",
+            "request": "launch",
+            "mainClass": "pattern.qcompattern",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "qcompattern1",
+            "request": "launch",
+            "mainClass": "pattern.qcompattern1",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "pattern.pattern7",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern.pattern6",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern.pattern5",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern.pattern4",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern.pattern3",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern.pattern2",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern.pattern1",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "summethod",
+            "request": "launch",
+            "mainClass": "Methods.summethod",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "sumclass",
+            "request": "launch",
+            "mainClass": "Methods.sumclass",
+            "projectName": "Java course_c406edfb"
+        },
+        {
+            "type": "java",
+            "name": "Rough",
+            "request": "launch",
+            "mainClass": "Rough",
+            "projectName": "Java course_c406edfb"
+        }
+    ]
+}

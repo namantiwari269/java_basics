@@ -1,0 +1,12 @@
+Basic differece between array and arraylist is 
+that array has a predefined number of elements whereas;
+arraylist is a dynamic array
+
+Dynamic array creates a array of double size when the
+array is filledsome functions 
+ArraysList<Datatype> arr = new ArraysList<>(Initial sizr)
+arr.add(Index , value); to add a element
+arr.get(index); to print an element 
+arr.set(Index, value); to change the value
+arr.add(value); to add element in the last
+arr.remove(index); removes that index
